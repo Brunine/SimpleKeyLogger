@@ -1,4 +1,5 @@
 # SimpleKeyLogger
-Um simples KeyLogger feito em C#, para fins educativos.
+Um simples KeyLogger feito em C# para Windows.
 
-Esse KeyLogger não possuí a função de armazenar os dados obtidos das teclas pressionadas, não me responsabilizo por qualquer tipo de uso inadequado do código.
+Esse KeyLogger possuí a função de armazenar os dados obtidos das teclas pressionadas, localizada no "C:\temp\log.txt". 
+Não me responsabilizo por qualquer tipo de uso inadequado do código, utilizado apenas para fins educativos.
